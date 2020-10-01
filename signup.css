@@ -1,0 +1,39 @@
+body {
+  background: #f8f8f8;
+}
+
+.card {
+  margin: 0 auto;
+  width: 450px;
+  text-align: center;
+  background: #172842;
+}
+
+.check {
+  border-right: 1px solid #94909096;
+  padding-right: 15px;
+}
+
+a {
+  text-decoration: none !important;
+  color: #fff !important;
+}
+
+.list-inline {
+  color: #3c5eb0;
+}
+
+.btn-primary {
+  border-radius: 10px;
+  border-color: #3c5eb0;
+  background: #3c5eb0;
+}
+
+.btn-primary:hover {
+  background: #3c5eb0;
+}
+
+input {
+  background: #172842 !important;
+  color: #fff !important;
+}
